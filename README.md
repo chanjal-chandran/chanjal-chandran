@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**chanjal-chandran/chanjal-chandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Chanjal Chandran
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Computer Science Student | 🌐 Front-End Developer  
+📍 Focused on HTML, CSS, and JavaScript
+
+## 🔹 About Me
+I am a motivated student developer with hands-on experience in building web-based applications. I enjoy creating clean, user-friendly interfaces and continuously improving my technical skills through practical projects.
+
+## 🔹 Projects
+- **StyleHub** – Front-end fashion website  
+- **Catering Project** – JavaScript-based web application  
+- **Exam & Assessment Projects** – Academic web projects  
+- **Internship Projects (INTERN1, INTERN2)** – Practical industry-oriented tasks  
+
+## 🔹 Technical Skills
+- HTML5  
+- CSS3  
+- JavaScript  
+- Git & GitHub  
+
+## 🔹 Career Objective
+To secure an entry-level role or internship where I can apply my web development skills and grow as a software developer.
+
+## 📫 Contact
+- GitHub: https://github.com/chanjal-chandran
