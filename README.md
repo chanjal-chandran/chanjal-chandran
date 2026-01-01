@@ -1,78 +1,65 @@
 <div align="center">
 
-# 👋 Hi, I'm Chanjal Chandran  
+# 👋 Hi, I'm Chanjal Chandran
+**Front-End Developer | CS Student | Aspiring Software Engineer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1200&color=2F80ED&center=true&vCenter=true&width=680&lines=Computer+Science+Student;Front-End+Web+Developer;Seeking+Internship+Opportunities;HTML+%7C+CSS+%7C+JavaScript" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DE4DF&center=true&vCenter=true&width=700&lines=Building+digital+experiences;Specializing+in+Responsive+Design;Open+for+Internships+2026;JavaScript+Enthusiast" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=120&section=header"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-success?style=for-the-badge&logo=polywork)](YOUR_PORTFOLIO_URL)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=120&section=header"/>
+
+</div>
+
+## 📖 About Me
+I am a **Computer Science student** dedicated to bridging the gap between elegant design and functional code. My focus is on building **performant, accessible, and user-centric** web interfaces.
+
+* 🔭 **Currently:** Sharpening my skills in React and UI/UX Principles.
+* ⚡ **Goal:** To secure an internship where I can contribute to high-impact production code.
+* 🌱 **Learning:** Advanced JavaScript and CSS Animation frameworks.
+
+---
+
+## 🛠 Tech Stack & Tools
+
+### **Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### **Tools & Version Control**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+</p>
+
+---
+
+## 🧪 Featured Projects
+
+| Project | Key Technologies | Highlights |
+| :--- | :--- | :--- |
+| **StyleHub** | HTML, CSS, JS | Developed a fully responsive e-commerce UI with dynamic product filtering. |
+| **Catering Pro** | JavaScript, DOM | Managed state for order forms and interactive menus. |
+| **Internship Tasks** | Professional Workflow | Practiced Agile methodologies and clean code standards during training. |
+
+---
+
+## 📈 GitHub Statistics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chanjal-chandran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanjal-chandran&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## About Me
-🎓 Computer Science student with a strong foundation in **front-end web development**  
-💡 Focused on building **clean, responsive, and user-friendly** interfaces  
-🚀 Actively seeking **internship opportunities** to gain real-world experience  
+## 🤝 Let's Connect
+I'm always open to discussing new projects, internship opportunities, or tech trends.
 
----
-
-## Projects
-- **StyleHub** – Front-end fashion website emphasizing UI design and responsiveness  
-- **Catering Project** – JavaScript-based web application  
-- **Exam & Assessment Projects** – Academic projects demonstrating logic and structure  
-- **Internship Projects (INTERN1 & INTERN2)** – Industry-oriented practice work  
-
----
-
-## Technical Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
-</p>
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanjal-chandran&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanjal-chandran&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanjal-chandran&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## Career Objective
-To secure a **front-end development internship** where I can apply my skills, learn industry best practices, and contribute to real-world web applications.
-
----
-
-## Open To
-- Front-End Development Internships  
-- Web Development Training Programs  
-- Entry-Level Developer Roles  
-
----
-
-## Contact
-
-<p align="center">
-  <a href="https://github.com/chanjal-chandran">
-    <img src="https://img.shields.io/badge/GitHub-chanjal--chandran-2F80ED?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
+* **Email:** [your-email@example.com]
+* **GitHub:** [@chanjal-chandran](https://github.com/chanjal-chandran)
+* **LinkedIn:** [Your Name](YOUR_LINKEDIN_URL)
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:2F80ED&height=100&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer"/>
 </div>
