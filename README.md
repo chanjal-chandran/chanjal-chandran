@@ -1,29 +1,39 @@
-## Hi there 👋
+<div align="center">
+
+# 👋 Hi, I'm Chanjal Chandran  
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Front-End+Web+Developer;HTML+CSS+JavaScript" />
+
+</div>
 
 ---
 
-# Chanjal Chandran
+## 🚀 About Me
+🎓 Computer Science student with hands-on experience in front-end development.  
+💡 Passionate about creating clean, interactive, and user-friendly web applications.  
 
-🎓 Computer Science Student | 🌐 Front-End Developer  
-📍 Focused on HTML, CSS, and JavaScript
+---
 
-## 🔹 About Me
-I am a motivated student developer with hands-on experience in building web-based applications. I enjoy creating clean, user-friendly interfaces and continuously improving my technical skills through practical projects.
+## 🧑‍💻 Projects
+- 🛍️ **StyleHub** – Fashion-based front-end website  
+- 🍽️ **Catering Project** – JavaScript web application  
+- 📝 **Exam Projects** – Academic web applications  
+- 💼 **Internship Projects (INTERN1 & INTERN2)**  
 
-## 🔹 Projects
-- **StyleHub** – Front-end fashion website  
-- **Catering Project** – JavaScript-based web application  
-- **Exam & Assessment Projects** – Academic web projects  
-- **Internship Projects (INTERN1, INTERN2)** – Practical industry-oriented tasks  
+---
 
-## 🔹 Technical Skills
-- HTML5  
-- CSS3  
-- JavaScript  
-- Git & GitHub  
+## 🛠 Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</p>
 
-## 🔹 Career Objective
-To secure an entry-level role or internship where I can apply my web development skills and grow as a software developer.
+---
 
-## 📫 Contact
-- GitHub: https://github.com/chanjal-chandran
+## 🎯 Career Goal
+To secure an internship or entry-level role where I can apply my front-end skills and grow as a software developer.
+
+---
+
+## 📫 Connect With Me
+🔗 GitHub: https://github.com/chanjal-chandran  
+
