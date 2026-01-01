@@ -56,9 +56,9 @@ I am a **Computer Science student** dedicated to bridging the gap between elegan
 ## 🤝 Let's Connect
 I'm always open to discussing new projects, internship opportunities, or tech trends.
 
-* **Email:** [your-email@example.com]
+* **Email:** [chanjalchandran7@gmail.com]
 * **GitHub:** [@chanjal-chandran](https://github.com/chanjal-chandran)
-* **LinkedIn:** [Your Name](YOUR_LINKEDIN_URL)
+* **LinkedIn:** [chanjal chandran]
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer"/>
